@@ -153,9 +153,6 @@ data_quality_results
 This makes the framework easier to maintain and extend when new tables or business rules are introduced.
 
 ---
-<img width="1163" height="698" alt="photo_2026-09-07_01-38-47" src="https://github.com/user-attachments/assets/c3e06564-7cb6-4f53-a249-183a6a255c59" />
-
-<img width="1280" height="714" alt="photo_2026-09-07_01-38-55" src="https://github.com/user-attachments/assets/8daab645-0a9d-4c5e-a0bc-bd0e2d0bf651" />
 
 # 🥈 Silver Layer
 
@@ -191,6 +188,10 @@ fact_customer_campaign
 ```
 
 ![Database Schema](docs/Database_Schema.png)
+
+<img width="1163" height="698" alt="photo_2026-09-07_01-38-47" src="https://github.com/user-attachments/assets/03cef342-c691-4278-a505-d4693e0345ec" />
+
+<img width="1280" height="714" alt="photo_2026-09-07_01-38-55" src="https://github.com/user-attachments/assets/1085f47f-e7c1-4afa-b685-0d89908dae43" />
 
 ---
 
