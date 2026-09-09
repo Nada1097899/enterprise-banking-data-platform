@@ -61,7 +61,7 @@ The platform follows a layered architecture:
 * **Git & GitHub**
 
 ---
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/696f6d27-7017-4430-bc7f-6e2e621f56c0" />
+
 
 
 ## 🔄 ETL Pipeline
